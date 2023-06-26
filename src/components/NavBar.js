@@ -14,17 +14,6 @@ export default function NavBar() {
       >
         about
       </Link>
-      <style jsx>{`
-        nav {
-          background-color: tomato;
-        }
-        a {
-          text-decoration: none;
-        }
-        .active {
-          color: yellow;
-        }
-      `}</style>
     </nav>
   );
 }
